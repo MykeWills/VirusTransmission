@@ -19,7 +19,7 @@ Virus Transmission is a first person shooter 2 player deathmatch game, designed 
 * Level music
 * Weapon models
 
-> **Jonathan Kynock*
+> **Jonathan Kynock**
 ========================
 * Level design
 
