@@ -4,7 +4,7 @@
 > 2 day team project
  
 ## **|| Introduction ||**
-Virus Tranmission is a first person shooter 2 player deathmatch game, designed with 3 members during Global Game Jam 2018 at Volta labs. The current theme was "Transmission", so we designed two players that would shoot virus guns to infect the other player, players could look for vaccines to reduce their infections. 
+Virus Transmission is a first person shooter 2 player deathmatch game, designed with 3 members during Global Game Jam 2018 at Volta labs. The current theme was "Transmission", so we designed two players that would shoot virus guns to infect the other player, players could look for vaccines to reduce their infections. 
 
 > _Game contains 1 level, 2 players to shoot eachother._ 
 
